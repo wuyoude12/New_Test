@@ -1,2 +1,7 @@
 Hello GitHub!
+<<<<<<< HEAD
 ÄãºÃ
+=======
+æ”¹åŠ¨
+e
+>>>>>>> origin/master
